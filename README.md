@@ -3,7 +3,7 @@ a class to export table data to Excel
 exportExcel.js
 How to use?
 ```
-<a href="" id="eexcel" style="color: white;">导出Excel</a>
+<a href="" id="eexcel">导出Excel</a>
 ```
 
 ```
